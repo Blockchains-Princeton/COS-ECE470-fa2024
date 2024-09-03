@@ -5,7 +5,7 @@ Welcome! This is the repository for COS/ECE 470: Principles of Blockchains, Fall
 [Main website of the course](https://web3.princeton.edu/principles-of-blockchains/).
 
 ## Discussion
-We use Ed for discussion.
+We use Ed for discussion: [Link to Ed](https://edstem.org/us/courses/65555/)
 
 ## Project Suggestion
 You need to run the project on your machines. **We strongly recommend Linux or Mac OS.**
