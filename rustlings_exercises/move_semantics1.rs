@@ -2,6 +2,8 @@
 //
 // Hints at the bottom.
 
+// I AM NOT DONE
+
 #[test]
 fn main() {
     let vec0 = vec![22, 44, 66];
@@ -12,7 +14,7 @@ fn main() {
 }
 
 fn fill_vec(vec: Vec<i32>) -> Vec<i32> {
-    let vec = vec;
+    let mut vec = vec;
 
     vec.push(88);
 
