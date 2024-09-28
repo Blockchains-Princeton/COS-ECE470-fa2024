@@ -19,7 +19,7 @@ You need to run the project on your machines. **We strongly recommend Linux or M
 - [Part 5](Project5). Due date: 10pm ET, Oct 23, 2024.
 - [Part 6](Project6). Due date: 10pm ET, Oct 30, 2024.
 - [Part 7](Project7). Due date: 10pm ET, Nov 13, 2024.
-- [Part 8](Project8). Due date: 10pm ET, Nov 20, 2024.
+- [Part 8](Project8). Due date: 10pm ET, Nov 27, 2024.
   
 ## Policy
 Unless special permission is granted, submissions later than due date will get 0 points.
